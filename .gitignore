@@ -2,6 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+src/Modelos/Api.java
 
 ### Eclipse ###
 .apt_generated
